@@ -1,14 +1,4 @@
 {
-    "test": {
-        "host": [
-            "https://ceshi.zenithx.icu",
-            "https://ceshi.zenithx.dog"
-        ],
-        "image": [
-            "https://img.zenithx.icu",
-            "https://ceshi.zenithx.dog"
-        ]
-    },
     "main": {
         "host": [
             "https://ceshi.zenithx.icu"
