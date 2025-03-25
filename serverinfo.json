@@ -1,11 +1,20 @@
 {
-    "test":{
-      "host":["https://ceshi.zenithx.icu","https://ceshi.zenithx.dog"],
-      "image":["https://img.zenithx.icu","https://ceshi.zenithx.dog"]
+    "test": {
+        "host": [
+            "https://ceshi.zenithx.icu",
+            "https://ceshi.zenithx.dog"
+        ],
+        "image": [
+            "https://img.zenithx.icu",
+            "https://ceshi.zenithx.dog"
+        ]
     },
-    "main":{
-      "host":["https://ceshi.zenithx.icu"],
-      "image":["https://img.zenithx.icu"]
+    "main": {
+        "host": [
+            "https://ceshi.zenithx.icu"
+        ],
+        "image": [
+            "https://img.zenithx.icu"
+        ]
     }
-    
-  }
+}
