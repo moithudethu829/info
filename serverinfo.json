@@ -1,11 +1,11 @@
 {
-  "test":{
-    "host1":"https://ceshi.zenithx.icu",
-    "image1":"https://img.zenithx.icu"
-  },
-  "main":{
-    "host1":"https://ceshi.zenithx.icu",
-    "image1":"https://img.zenithx.icu"
+    "test":{
+      "host":["https://ceshi.zenithx.icu","https://ceshi.zenithx.dog"],
+      "image":["https://img.zenithx.icu","https://ceshi.zenithx.dog"]
+    },
+    "main":{
+      "host":["https://ceshi.zenithx.icu"],
+      "image":["https://img.zenithx.icu"]
+    }
+    
   }
-  
-}
