@@ -4,7 +4,10 @@
             "https://ceshi.zenithx.icu"
         ],
         "image": [
-            "https://img.zenithx.icu"
+            "https://images.zenithx.icu/"
+        ],
+        "academy":[
+           "https://academy.zenithxcenter.com" 
         ]
     }
 }
