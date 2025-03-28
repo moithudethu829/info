@@ -1,13 +1,13 @@
 {
     "main": {
         "host": [
-            "https://ceshi.zenithx.icu"
+            "https://www.zenithxcenter.com","https://www.zenithx.space","https://www.zenithxgroup.com"
         ],
         "image": [
-            "https://images.zenithx.icu/"
+            "https://images.zenithxcenter.com","https://images.zenithx.space","https://images.zenithxgroup.com"
         ],
         "academy":[
-           "https://academy.zenithxcenter.com" 
+           "https://academy.zenithxcenter.com","https://academy.zenithx.space","https://academy.zenithxgroup.com"
         ]
     }
 }
